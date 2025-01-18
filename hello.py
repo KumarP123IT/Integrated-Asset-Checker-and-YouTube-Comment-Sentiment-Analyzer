@@ -96,7 +96,7 @@ def main():
     print(f"\nSentiment analysis of '{static_text}': {youtube_sentiment}")
 
     # Step 4: Analyze sentiment for YouTube comments
-    api_key = "AIzaSyB_kGQ43ns6EiYBaeZf4nHTsOE8t0D9VdE"
+    api_key = "" #Replace with Your API key
     video_id = "dQw4w9WgXcQ" 
     analyze_youtube_comments(api_key, video_id)
 
