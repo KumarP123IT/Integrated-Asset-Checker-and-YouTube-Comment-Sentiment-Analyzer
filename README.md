@@ -13,12 +13,12 @@
  - Google API Client: Manages API interactions.
    
 ### How to Use
-  Clone the repository.
-  Install dependencies with ``` pip install -r requirements.txt. ```
-  Add your API key and video ID in the script.
-  Run the script and explore results!
+ - Clone the repository.
+ - Install dependencies with ``` pip install -r requirements.txt. ```
+ - Add your API key and video ID in the script.
+ - Run the script and explore results!
   
 ### Contributions
-Feel free to fork this repository, open issues, and submit pull requests. Your feedback is highly appreciated!
+  Feel free to fork this repository, open issues, and submit pull requests. Your feedback is highly appreciated!
 
 🔗 Connect with me on Linkedin as Kumar [here](https://www.linkedin.com/in/kumar-p-bbbbb3252/).
