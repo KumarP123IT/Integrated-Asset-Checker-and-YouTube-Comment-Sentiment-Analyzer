@@ -1,0 +1,163 @@
+python hello.py
+
+Enter a name to check if it exists in the assets file: bob
+The name 'bob' does not exist in the assets file.
+
+Sentiment analysis of 'YouTube': Neutral
+Fetching YouTube comments...
+
+Analyzing 50 comments...
+Comment: 1 BILLION views for Never Gonna Give You Up!  Amazing, crazy, wonderful! Rick ♥️
+Sentiment: Positive
+
+Comment: I got rickrolled, dammmmnnnn
+Sentiment: Neutral
+
+Comment: This was made in 2010 and i am watching it in 2025
+Sentiment: Neutral
+
+Comment: Hhahahah funny funny thanks for that anyways the advert saved me
+Sentiment: Positive
+
+Comment: Опять
+Sentiment: Neutral
+
+Comment: Dude i literally got rickrolled by microsoft copilot when asking about a prompt. This is whole next level.
+Sentiment: Positive
+
+Comment: Fuck.
+Sentiment: Negative
+
+Comment: Dang from the millennials, gen x and baby boomers to gen alphas, they truly enjoy this song. This song is revolutionary considering its from 38 years ago. Still going strong at 1.6 Billion views
+Sentiment: Positive
+
+Comment: Who is here in 2025?
+Sentiment: Neutral
+
+Comment: 15 YEARS?
+Sentiment: Neutral
+
+Comment: Bro he Rick roll
+Sentiment: Neutral
+
+Comment: where is free robux
+Sentiment: Positive
+
+Comment: The fucking AI trolled me
+Sentiment: Negative
+
+Comment: Nawww he rick roll me so badly
+Sentiment: Negative
+
+Comment: I&#39;m am watching this on 2025
+Sentiment: Neutral
+
+Comment: I never got rickrolled and im happy about it 😊
+Sentiment: Positive
+
+Comment: January 18, 2025
+Sentiment: Neutral
+
+Comment: Lets put the meme aside this song is great 😊
+Sentiment: Positive
+
+Comment: Wait... This isn&#39;t the link to free Minecoins.
+Sentiment: Positive
+
+Comment: Whos here in 2025
+Sentiment: Neutral
+
+Comment: Imagine if you are in a Roblox obby and when you turn around you see the Rick roll song pop up
+Sentiment: Neutral
+
+Comment: But link sayd free robux
+Sentiment: Positive
+
+Comment: Best song
+Sentiment: Positive
+
+Comment: 1billon and 1
+Sentiment: Neutral
+
+Comment: geekhaven ... This was good....
+Sentiment: Positive
+
+Comment: never gonna give you up never gonna let you down
+Sentiment: Negative
+
+Comment: Det är så Fucking good❤🎉
+Sentiment: Negative
+
+Comment: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;t=181">3:01</a>
+Sentiment: Neutral
+
+Comment: listen in 2025⬇👍
+Sentiment: Neutral
+
+Comment: Is there anyone listening in 2025?
+Sentiment: Neutral
+
+Comment: Fuck Rickroll
+Sentiment: Negative
+
+Comment: I rick roll myself on purpose
+Sentiment: Neutral
+
+Comment: oh come on i can’t believe i fell for this AGAIN
+Sentiment: Neutral
+
+Comment: I got tricked here but stayed as it is a great song. The truck failed 😂.
+Sentiment: Positive
+
+Comment: We need to rickroll the beta generation
+Sentiment: Neutral
+
+Comment: QR CODE BRUHH
+Sentiment: Neutral
+
+Comment: Never give you up
+Sentiment: Neutral
+
+Comment: Omg what
+Sentiment: Neutral
+
+Comment: bro i came from a Video called bad parenting 2 leak
+Sentiment: Negative
+
+Comment: Bros we get Rick roll😂
+Sentiment: Neutral
+
+Comment: I got scammed because there was a QR code on Sprunki
+Sentiment: Neutral
+
+Comment: 💀💀💀 what is that
+Sentiment: Neutral
+
+Comment: I scanned a stupid qr code😡
+Sentiment: Negative
+
+Comment: Never Gonna Give You up~♪
+Sentiment: Neutral
+
+Comment: Average american saying: AR-15, MP5K, M4A1, Glock-18 and others
+Sentiment: Negative
+
+Comment: It&#39;s 2025, and this song is still peak! 🔥🔥🔥🔥 (And funny)
+Sentiment: Positive
+
+Comment: 1.6 billion got rick rolled 💀
+Sentiment: Neutral
+
+Comment: I was just making an emoji for discord but ended up by an QR CODE and uh found this
+Sentiment: Neutral
+
+Comment: <b>Mission completed</b><br>-rickroSentiment: Neutral
+
+Comment: Dude try it i got robux!
+Sentiment: Neutral
+
+
+Summary of Sentiment Analysis:
+Positive: 13
+Negative: 9
+Neutral: 28
