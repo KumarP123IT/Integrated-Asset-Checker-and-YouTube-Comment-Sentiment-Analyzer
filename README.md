@@ -21,4 +21,4 @@
 ### Contributions
 Feel free to fork this repository, open issues, and submit pull requests. Your feedback is highly appreciated!
 
-🔗 LinkedIn: [https://www.linkedin.com/in/kumar-p-bbbbb3252/](Kumar P)
+🔗 LinkedIn: [https://www.linkedin.com/in/kumar-p-bbbbb3252/](Kumar)
